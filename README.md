@@ -106,8 +106,8 @@ Grid Price จะถูกอัปเดตทุกบ่าย 2 โมงข
 สรุปผลกำไรสุดท้ายเมื่อข้อมูลทดสอบสิ้นสุด
 
 
-# 📊 Grid Trading_buy&sell_limit_Alldata
-### 🏁 ผลลัพธ์ของ Grid Trading_buy&sell_limit_Alldata 
+# 📊 Grid Trading_long_only_Alldata
+### 🏁 ผลลัพธ์ของ Grid Trading_long_only_Alldata
 <p align="center">
   <img src="รูป Grid Trading_long_only_Alldata/1output.png"/>
 </p>
@@ -115,14 +115,14 @@ Grid Price จะถูกอัปเดตทุกบ่าย 2 โมงข
 <p align="center">
   <img src="รูป Grid Trading_long_only_Alldata/output.png"/>
 </p>
-กราฟแสดง Capital Growth (เงินทุนสะสม) แทนที่จะเป็นแค่ Total Profit 
+กราฟแสดง Capital Growth (เงินทุนสะสม) แทนที่จะเป็นแค่ Total Profit แสดงให้เห็นการเพิ่มขึ้นของทุน เช่น จาก $10,000 → $11,000 → $12,100 ตามการเติบโต 10% ในแต่ละครั้ง
 <p align="center">
   <img src="รูป Grid Trading_long_only_Alldata/all_order.png"/>
 </p>
 มีorder ที่ถูกเปิด 90 order
 
-# 📊 Grid Trading_long_only_Alldata
-### 🏁 ผลลัพธ์ของ long only ALL DATA 
+# 📊 Grid Trading_buy&sell_limit_Alldata
+### 🏁 ผลลัพธ์ของ Grid Trading_buy&sell_limit_Alldata
 <p align="center">
   <img src="รูป Grid Trading_buy&sell_limit_Alldata/1output.png"/>
 </p>
