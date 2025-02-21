@@ -105,18 +105,36 @@ Grid Price จะถูกอัปเดตทุกบ่าย 2 โมงข
 </p>
 สรุปผลกำไรสุดท้ายเมื่อข้อมูลทดสอบสิ้นสุด
 
+
+# 📊 Grid Trading_buy&sell_limit_Alldata
+### 🏁 ผลลัพธ์ของ Grid Trading_buy&sell_limit_Alldata 
+<p align="center">
+  <img src="รูป Grid Trading_long_only_Alldata/1output.png"/>
+</p>
+กราฟ Close Price and Grid Prices with Buy/Sell Signals
+<p align="center">
+  <img src="รูป Grid Trading_long_only_Alldata/output.png"/>
+</p>
+กราฟแสดง Capital Growth (เงินทุนสะสม) แทนที่จะเป็นแค่ Total Profit 
+<p align="center">
+  <img src="รูป Grid Trading_long_only_Alldata/all_order.png"/>
+</p>
+มีorder ที่ถูกเปิด 90 order
+
+# 📊 Grid Trading_long_only_Alldata
 ### 🏁 ผลลัพธ์ของ long only ALL DATA 
 <p align="center">
-  <img src="รูป/9.png"/>
+  <img src="รูป Grid Trading_buy&sell_limit_Alldata/1output.png"/>
 </p>
-
+กราฟ Close Price and Grid Prices with Buy/Sell Signals
 <p align="center">
-  <img src="รูป/9.png"/>
+  <img src="รูป Grid Trading_buy&sell_limit_Alldata/2output.png"/>
 </p>
-
+กราฟกำไรสะสม (Cumulative Profit) โดยใช้ค่า total_profit 
 <p align="center">
-  <img src="รูป/9.png"/>
+  <img src="รูป Grid Trading_buy&sell_limit_Alldata/all_order.png"/>
 </p>
+มีorder ที่ถูกเปิด 120 order
 สรุปผลกำไรสุดท้ายเมื่อข้อมูลทดสอบสิ้นสุด
 
 ---
